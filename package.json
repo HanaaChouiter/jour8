@@ -1,0 +1,24 @@
+{
+  "name": "jour8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^7.24.2",
+    "prompt": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanaaChouiter/jour8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanaaChouiter/jour8/issues"
+  },
+  "homepage": "https://github.com/HanaaChouiter/jour8#readme",
+  "description": ""
+}
